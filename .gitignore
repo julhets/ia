@@ -2,3 +2,4 @@ venv/*
 images-classification/test_set/*
 images-classification/training_set/*
 DataScience-Python3/emails/*
+.idea/*
